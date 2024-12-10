@@ -34,13 +34,13 @@ Welcome to **Pack Together**, your go-to React app for organizing and managing y
 Take a peek at **Pack Together** in action! 🌟
 
 ### 🎬 Main View
-![Main View](screens/main-view.png)
+![Main View](src/screens/main-view.png)
 
 ### 🛒 Adding Items
-![Adding Items](screens/add-item.png)
+![Adding Items](src/screens/add-item.png)
 
 ### 📊 Packed Stats
-![Packed Stats](screens/stats-view.png)
+![Packed Stats](src/screens/stats-view.png)
 
 ---
 
