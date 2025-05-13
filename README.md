@@ -32,7 +32,7 @@ Welcome to **Pack Together**, your go-to React app for organizing and managing y
 
 ## 🔗 Live Demo
 
-👉 **[https://antot-12.github.io/NO](https://antot-12.github.io/Pack-React-Site/)**
+👉 **[https://antot-12.github.io/Pack-React-Site](https://antot-12.github.io/Pack-React-Site/)**
 
 ---
 
